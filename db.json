@@ -996,5 +996,22 @@
         "country": "Zimbabwe",
         "city": "Harare"
     }
+],
+"user":[
+    {
+        "name":"Guddu",
+        "email":"guddu@gmail.com",
+        "password":"guddu123",
+        "id":"1"
+    }
+
+],
+
+"posts":[
+    {
+        "userId":"1",
+        "body":"Hello world",
+        "gifUrl":""
+    }
 ]
 }
