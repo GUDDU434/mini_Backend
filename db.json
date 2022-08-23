@@ -1011,7 +1011,8 @@
     {
         "userId":"1",
         "body":"Hello world",
-        "gifUrl":""
+        "gifUrl":"https://giphy.com/gifs/cat-cool-cats-cfuL5gqFDreXxkWQ4o",
+        "postId":"ghdjgf"
     }
 ]
 }
