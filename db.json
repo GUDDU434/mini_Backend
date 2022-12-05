@@ -1007,12 +1007,9 @@
 
 ],
 
-"posts":[
+"masai-job-app":[
     {
-        "userId":"1",
-        "body":"Hello world",
-        "gifUrl":"https://giphy.com/gifs/cat-cool-cats-cfuL5gqFDreXxkWQ4o",
-        "postId":"ghdjgf"
+        "id":1
     }
 ]
 }
